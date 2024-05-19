@@ -1,0 +1,23 @@
+body{
+   
+    background: center;
+    background-size: cover;
+    position: relative;
+    background-image:  url(guillaume-galtier-3YrppYQPoCI-unsplash.jpg)
+  }
+
+table{
+    width: 70%;
+    margin: 200px;
+    margin-top: 120px;
+    border-collapse: collapse;
+}
+th{
+    background-color: red;
+    padding: 10px;
+}
+button{
+    border-radius: 20px;
+    padding: 10px;
+    padding-top: 5px;
+}
